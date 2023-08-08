@@ -255,6 +255,14 @@ adventurers_tome = {
         'subcategory': None,
         'amount': 1
     },
+    'Vessel of the Final Breath': {
+        'name': 'Vessel of the Final Breath',
+        'rarity': 4,
+        'image': 'vessel-of-the-final-breath.webp',
+        'category': 'Adventurer\'s Tome',
+        'subcategory': None,
+        'amount': 1
+    },
     'Wild Banana Bread': {
         'name': 'Wild Banana Bread',
         'rarity': 4,
@@ -455,6 +463,14 @@ adventurers_tome = {
         'subcategory': None,
         'amount': 1
     },
+    'Dueogsini Stone': {
+        'name': 'Dueogsini Stone',
+        'rarity': 3,
+        'image': 'dueogsini-stone.webp',
+        'category': 'Adventurer\'s Tome',
+        'subcategory': None,
+        'amount': 1
+    },
     'Dusty Rainbow Candy': {
         'name': 'Dusty Rainbow Candy',
         'rarity': 3,
@@ -651,6 +667,14 @@ adventurers_tome = {
         'name': 'Meat Bug',
         'rarity': 3,
         'image': 'meat-bug.webp',
+        'category': 'Adventurer\'s Tome',
+        'subcategory': None,
+        'amount': 1
+    },
+    'Mellemar\'s Molar': {
+        'name': 'Mellemar\'s Molar',
+        'rarity': 3,
+        'image': 'mellemar-s-molar.webp',
         'category': 'Adventurer\'s Tome',
         'subcategory': None,
         'amount': 1
@@ -1067,6 +1091,14 @@ adventurers_tome = {
         'name': 'Enviska\'s Talisman',
         'rarity': 2,
         'image': 'enviska-s-talisman.webp',
+        'category': 'Adventurer\'s Tome',
+        'subcategory': None,
+        'amount': 1
+    },
+    'Eve\'s Magick Paper': {
+        'name': 'Eve\'s Magick Paper',
+        'rarity': 2,
+        'image': 'eve-s-magick-paper.webp',
         'category': 'Adventurer\'s Tome',
         'subcategory': None,
         'amount': 1
@@ -1607,6 +1639,14 @@ adventurers_tome = {
         'subcategory': None,
         'amount': 1
     },
+    'Silver Tentacle': {
+        'name': 'Silver Tentacle',
+        'rarity': 1,
+        'image': 'silver-tentacle.webp',
+        'category': 'Adventurer\'s Tome',
+        'subcategory': None,
+        'amount': 1
+    },
     'Smelly Boots': {
         'name': 'Smelly Boots',
         'rarity': 1,
@@ -1759,6 +1799,14 @@ adventurers_tome = {
         'subcategory': None,
         'amount': 1
     },
+    'Eliyabeck Tattoo': {
+        'name': 'Eliyabeck Tattoo',
+        'rarity': 0,
+        'image': 'eliyabeck-tattoo.webp',
+        'category': 'Adventurer\'s Tome',
+        'subcategory': None,
+        'amount': 1
+    },
     'Help Wanted Poster': {
         'name': 'Help Wanted Poster',
         'rarity': 0,
@@ -1907,6 +1955,14 @@ adventurers_tome = {
         'name': 'Steel Plate Inscribed with Mysterious Signals',
         'rarity': 0,
         'image': 'steel-plate-inscribed-with-mysterious-signals.webp',
+        'category': 'Adventurer\'s Tome',
+        'subcategory': None,
+        'amount': 1
+    },
+    'Tarunian Charm': {
+        'name': 'Tarunian Charm',
+        'rarity': 0,
+        'image': 'tarunian-charm.webp',
         'category': 'Adventurer\'s Tome',
         'subcategory': None,
         'amount': 1
